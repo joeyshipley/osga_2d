@@ -1,7 +1,5 @@
-osga_2d
-=======
-
 Open Source Game Assets (2D artwork)
+===================================
 
 Over the years I've offered my artwork up to co-workers and friends to use, I had been storing them in a zip and handing that out. So, I'm just moving that artwork here. If you run into this, you are more than welcome to use it. I just ask that you keep it all-ages friendly.
 
